@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_fanhui.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xhdpi\\ic_fanhui.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_main_add.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xhdpi\\ic_main_add.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

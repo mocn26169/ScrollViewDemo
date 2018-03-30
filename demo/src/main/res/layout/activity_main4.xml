@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.5"
+        android:background="#000000"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        >
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_test"
+        android:layout_width="130dp"
+        android:layout_height="60dp"
+        android:layout_margin="100dp"
+        android:text="test"
+        />
+
+    <RelativeLayout
+        android:id="@+id/layout_top"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#436EEE">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="顶部"
+
+            />
+    </RelativeLayout>
+
+    <com.amap.tripdemo.MyScrollView
+        android:id="@+id/bounceScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linear_myBack"
+                android:layout_width="match_parent"
+                android:layout_height="430dp"
+                android:orientation="horizontal"
+
+                >
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@color/gray300"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/layout_freghtBooking"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+
+                    android:background="@color/white"
+                    android:clickable="true"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <LinearLayout
+                        android:id="@+id/layout_start"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:orientation="horizontal">
+
+                        <RelativeLayout
+                            android:layout_width="10dp"
+                            android:layout_height="10dp"
+                            android:layout_alignParentLeft="true"
+                            >
+
+                            <ImageView
+                                android:id="@+id/type_icon"
+                                android:layout_width="6dp"
+                                android:layout_height="6dp"
+                                android:layout_centerInParent="true"
+                                android:background="@mipmap/source"
+                                >
+                            </ImageView>
+                        </RelativeLayout>
+
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+
+                            >
+
+
+
+                            <TextView
+                                android:id="@+id/tv_startPoint"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+
+                                android:layout_alignParentTop="true"
+                                android:background="@null"
+                                android:gravity="center_vertical"
+                                android:text=""
+
+                                >
+                            </TextView>
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linear_content_pass"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/layout_start"
+                        android:orientation="vertical"
+
+                        />
+
+                    <LinearLayout
+                        android:id="@+id/layout_des"
+                        android:layout_width="match_parent"
+                        android:layout_height="10dp"
+                        android:layout_alignParentBottom="true"
+                        android:layout_below="@+id/linear_content_pass">
+
+                        <RelativeLayout
+                            android:layout_width="10dp"
+                            android:layout_height="10dp"
+                            android:layout_alignParentLeft="true"
+                            >
+
+                            <ImageView
+                                android:id="@+id/img_add"
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:layout_centerInParent="true"
+                                android:background="@mipmap/ic_main_add"
+                                android:visibility="gone"
+                                />
+
+                            <ImageView
+                                android:id="@+id/img_ori"
+                                android:layout_width="6dp"
+                                android:layout_height="6dp"
+                                android:layout_centerInParent="true"
+                                android:background="@mipmap/dest_icon"
+
+                                >
+                            </ImageView>
+                        </RelativeLayout>
+
+                        <TextView
+                            android:id="@+id/tv_endPoint"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentTop="true"
+                            android:background="@null"
+                            android:gravity="center_vertical"
+                            android:hint="您要去哪儿"
+                            android:text=""
+
+                            >
+                        </TextView>
+
+                    </LinearLayout>
+
+                    <!--增加途经点-->
+                    <LinearLayout
+                        android:id="@+id/linear_addPass"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginBottom="35dp"
+                        android:orientation="horizontal"
+                        android:visibility="visible">
+
+                        <ImageView
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_gravity="center"
+                            android:layout_marginLeft="15dp"
+                            android:background="@mipmap/ic_main_add"
+                            />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@mipmap/s1"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@mipmap/s2"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@mipmap/s1"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@mipmap/s2"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@mipmap/s1"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@mipmap/s2"/>
+            </LinearLayout>
+        </LinearLayout>
+    </com.amap.tripdemo.MyScrollView>
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="10dp"
+        android:background="@mipmap/ic_fanhui"
+        android:visibility="gone"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\poi.png",
+        "source": "C:\\Users\\bourne\\.android\\build-cache\\1fd4a5726615d0152ab4cdc81bf5c67e49b287de\\output\\res\\mipmap-hdpi-v4\\poi.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\back.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\back.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\time.png",
+        "source": "C:\\Users\\bourne\\.android\\build-cache\\1fd4a5726615d0152ab4cdc81bf5c67e49b287de\\output\\res\\mipmap-hdpi-v4\\time.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\comp.png",
+        "source": "C:\\Users\\bourne\\.android\\build-cache\\1fd4a5726615d0152ab4cdc81bf5c67e49b287de\\output\\res\\mipmap-hdpi-v4\\comp.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\source.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\source.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home.png",
+        "source": "C:\\Users\\bourne\\.android\\build-cache\\1fd4a5726615d0152ab4cdc81bf5c67e49b287de\\output\\res\\mipmap-hdpi-v4\\home.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\msg.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\msg.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\aib.png",
+        "source": "C:\\Users\\bourne\\.android\\build-cache\\1fd4a5726615d0152ab4cdc81bf5c67e49b287de\\output\\res\\mipmap-hdpi-v4\\aib.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\dest_marker_icon.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\dest_marker_icon.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\down_arrow.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\loc.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\loc.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\clear.png",
+        "source": "C:\\Users\\bourne\\.android\\build-cache\\1fd4a5726615d0152ab4cdc81bf5c67e49b287de\\output\\res\\mipmap-hdpi-v4\\clear.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\dest_icon.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\dest_icon.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\user_icon.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\user_icon.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\start_marker_icon.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\start_marker_icon.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\sc_center_marker_icon.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\sc_center_marker_icon.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\user_loc_marker_icon.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\AMapTripModule\\build\\intermediates\\bundles\\default\\res\\mipmap-hdpi-v4\\user_loc_marker_icon.png"
+    }
+]

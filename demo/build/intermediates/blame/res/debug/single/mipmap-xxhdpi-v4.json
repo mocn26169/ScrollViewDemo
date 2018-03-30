@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\book1.jpg",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\book1.jpg"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\one.jpg",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\one.jpg"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\pic.jpg",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\pic.jpg"
+    }
+]

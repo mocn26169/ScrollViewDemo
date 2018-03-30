@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\navigation_bar.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\navigation_bar.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\buy.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\buy.png"
+    },
+    {
+        "merged": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\MyAndroid\\workplace\\mapdemo\\demo\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
